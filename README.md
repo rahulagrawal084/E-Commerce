@@ -61,3 +61,12 @@ npm start
 * Open your browser and go to http://localhost:3000 to access the application.
 * Register or log in to start using the app.
 * Browse products, add them to your cart, and complete the purchase.
+
+# Screenshots
+
+![Screenshot 2024-08-28 230219](https://github.com/user-attachments/assets/0bbe8a2d-c4f5-4e4c-b297-27282a618df6)
+![Screenshot 2024-08-28 230305](https://github.com/user-attachments/assets/5c7c7d43-97d0-4803-b860-4888eadb8fbb)
+![Screenshot 2024-08-28 230413](https://github.com/user-attachments/assets/d22dc6da-0efe-4608-a843-460cbf94db62)
+
+
+
